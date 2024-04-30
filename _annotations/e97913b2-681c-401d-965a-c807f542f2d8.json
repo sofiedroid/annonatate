@@ -1,0 +1,34 @@
+---
+canvas: "https://api.collectie.gent/iiif/image/iiif/2/c76c978f7c6e98e8137b5ba496fc67db-transcode-F10273-095.jpg/full/full/0/default.jpg"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "trap",
+            "purpose": "describing",
+            "creator": {
+                "id": "sofiedroid",
+                "name": "sofiedroid"
+            },
+            "created": "2024-04-30T09:19:24.553Z",
+            "modified": "2024-04-30T09:19:30.834Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://api.collectie.gent/iiif/image/iiif/2/c76c978f7c6e98e8137b5ba496fc67db-transcode-F10273-095.jpg/full/full/0/default.jpg",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1070.377685546875,857.7566528320312,335.987548828125,296.45953369140625"
+        }
+    },
+    "id": "e97913b2-681c-401d-965a-c807f542f2d8.json",
+    "motivation": "commenting"
+}
