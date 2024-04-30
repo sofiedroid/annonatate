@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-04-30 09:19:02.928821'
+  iiif: false
+  thumbnail: https://api.collectie.gent/iiif/image/iiif/2/c76c978f7c6e98e8137b5ba496fc67db-transcode-F10273-095.jpg/full/full/0/default.jpg
+  title: ''
+  url: https://api.collectie.gent/iiif/image/iiif/2/c76c978f7c6e98e8137b5ba496fc67db-transcode-F10273-095.jpg/full/full/0/default.jpg
+  user: sofiedroid
 settings: {}
 version: '2.1'
